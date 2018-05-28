@@ -7,6 +7,8 @@ public class Test {
 		
 		System.out.println("git second commit!");
 		
+		System.out.println("git third commit!");
+		
 	}
 	
 }

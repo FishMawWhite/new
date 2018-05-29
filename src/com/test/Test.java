@@ -12,6 +12,8 @@ public class Test {
 		
 		System.out.println("git fourth commit!");
 		
+		System.out.println("branch commit");
+		
 	}
 	
 }

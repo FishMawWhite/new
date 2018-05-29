@@ -15,6 +15,8 @@ public class Test {
 		
 		System.out.println("branch commit");
 		
+		System.out.println("test test");
+		
 	}
 	
 }

@@ -17,6 +17,8 @@ public class Test {
 		
 		System.out.println("test test");
 		
+		System.out.println("测试gitflow");
+		
 	}
 	
 }
